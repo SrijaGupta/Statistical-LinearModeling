@@ -1,3 +1,6 @@
+Codes for sessions: everyday coding
+Project: There was a car insurance dataset from India(Claims-data)
+We had to predict as to what segment of customers we should target in order to increase the profitability of an insurance company
 Data pre-processing (Removing outliers, dropping unnecessary columns)
 Data Visuals
 Performing linear medeling
